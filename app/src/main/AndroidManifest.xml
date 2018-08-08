@@ -21,7 +21,7 @@
         <activity android:name=".ScaleAnimation" />
         <activity android:name=".Gif" />
         <activity android:name=".MainActivity" />
-        
+
     </application>
 
 </manifest>
